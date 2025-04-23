@@ -1,10 +1,11 @@
 {
   "name": "ai-tool-finder",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+}
   },
   "dependencies": {
     "react": "^18.2.0",
